@@ -1,1 +1,1 @@
-# SQL
+SQL is a language which is in great demand in data analytics,data science,Business analytics world.So Here are some codes which is being written and practiced by me on Snowflake and MySQL workbench which includes creation of table,use of various functions and commands such as Like,Date & Time functions,Alter,Update,Cases,Joins etc.
